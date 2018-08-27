@@ -7,7 +7,7 @@
 	right:0px;
 	box-sizing:border-box;
 	margin:0px auto;
-	width:700px;
+	width:900px;
 	background-color:#FFF;
     text-align:center;
     font-size:5px;
@@ -15,7 +15,7 @@
 .A{
 	box-sizing:border-box;
 	margin:0px auto;
-	width:700px;
+	width:900px;
 	height:200px;
 	background-color:#FFF;
     text-align:center;
@@ -23,7 +23,7 @@
 }
 .tx{
 	padding-top:20px;
-	width:234px;
+	width:334px;
 	height:190px;
 	background-color:#00FFFF;
 	color:#000;
@@ -37,7 +37,7 @@
 	         transform: rotateY(360deg);
           }
 .js{
-	width:466px;
+	width:566px;
 	height:210px;
 	background-color:#ECFfff;
 	color:#000;
@@ -64,7 +64,7 @@
 
 .container{
 	margin:0px auto;
-	width:700px;
+	width:800px;
 	height:460px;
     animation:myfist 20s;
 	animation-iteration-count:infinite;
@@ -79,7 +79,7 @@
 	
 }
 .menu{
-	width:234px;
+	width:334px;
 	height:460px;
 	list-style:none;
 	border:0px solid #f00;
@@ -146,7 +146,7 @@
 }
 
 .item{
-	width:466px;
+	width:566px;
 	height:460px;
 	background-color:#ECFfff;
 	margin-left:234px;
@@ -164,7 +164,7 @@
 	line-height:30px;
 	padding:0px;
 	height:120px;
-	width:180px;
+	width:280px;
 	color:#000;
 }
 
